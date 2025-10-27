@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 **View Project:** [Add your deployment link here — e.g., https://3d-solar-system.netlify.app](#)
+🔗 **View Project:** https://3d-solar-system2905.netlify.app/
 
 📸 **Preview:**
 <p align="center">
