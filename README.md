@@ -14,11 +14,11 @@
 ---
 
 ## 🚀 Live Demo
-🔗 **View Project:** https://3d-solar-system2905.netlify.app/
+🔗 **View Project:** [🌌 3D Solar System Simulation](https://3d-solar-system2905.netlify.app/)
 
 📸 **Preview:**
 <p align="center">
-  <img src="preview.png" width="700" alt="3D Solar System Preview"/>
+  <img src="3D-Solar-System.png" width="700" alt="3D Solar System Preview"/>
 </p>
 
 ---
@@ -49,3 +49,51 @@ Each planet orbits dynamically around the Sun, with adjustable speeds and camera
 ---
 
 ## 📂 Project Structure
+
+📦 3D-Solar-System<br>
+├── index.html # Main entry point<br>
+├── style.css # Styling and layout<br>
+└── main.js # Three.js & GSAP logic
+
+---
+
+## ⚙️ Installation
+
+**Clone the repository**
+   ```bash
+   git clone https://github.com/saicharanjanagama/3d-solar-system.git
+   cd 3d-solar-system
+
+# run with live-server via npx
+npx live-server (or) npx live-server --port=5500
+# then open http://127.0.0.1:5500 in your browser
+```
+---
+
+## 🎮 Usage
+
+- Adjust each planet’s orbit speed using sliders 🛰️
+- Click on a planet to zoom in/out 🔭
+- Toggle between light/dark mode 🌞🌚
+- Pause/resume motion with a single click ⏯️
+- Hover over planets to view their names 🪐
+
+---
+
+## ✨ Features
+
+✅ Realistic 3D rendering using THREE.SphereGeometry<br>
+✅ GSAP-powered smooth camera animation<br>
+✅ Dynamic orbit controls<br>
+✅ Interactive tooltips and UI<br>
+✅ Fully responsive and optimized for all screen sizes
+
+---
+
+## 💼 Developer Info
+
+Sai Charan Janagama<br>
+🎓 Computer Science Graduate | 🌐 Aspiring Full Stack Developer<br>
+📧 [Email Me](saic89738@gmail.com) ↗<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/saicharanjanagama/) ↗<br>
+💻 [GitHub](https://github.com/SaiCharanJanagama) ↗
