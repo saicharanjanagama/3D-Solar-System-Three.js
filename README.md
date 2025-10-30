@@ -61,8 +61,8 @@ Each planet orbits dynamically around the Sun, with adjustable speeds and camera
 
 **Clone the repository**
    ```bash
-   git clone https://github.com/saicharanjanagama/3d-solar-system.git
-   cd 3d-solar-system
+   git clone https://github.com/saicharanjanagama/3D-Solar-System-Threejs.git
+   cd 3D-Solar-System-Threejs
 
 # run with live-server via npx
 npx live-server (or) npx live-server --port=5500
@@ -97,3 +97,4 @@ Sai Charan Janagama<br>
 📧 [Email Me](saic89738@gmail.com) ↗<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/saicharanjanagama/) ↗<br>
 💻 [GitHub](https://github.com/SaiCharanJanagama) ↗
+
